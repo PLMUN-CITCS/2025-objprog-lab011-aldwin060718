@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class NumberClassifierMenu {
@@ -58,3 +59,6 @@ userChoice = input.nextLine().toUpperCase().charAt(0);
 input.close();
     }
 }
+=======
+
+>>>>>>> 1094b659a774cfb155315cb08940b844da68eaf9
